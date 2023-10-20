@@ -1,2 +1,2 @@
-# hello-world
+# Hello-world
 Alfaris - Hello-World - Assignment
